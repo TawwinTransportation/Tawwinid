@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
-    <title>ကျွန်တော့်ဝက်ဆိုဒ်</title>
+    <title>တော်ဝင်မောင်းကူ</title>
     <style>
         body { 
             font-family: Arial; 
